@@ -1,0 +1,6 @@
+ipython
+flask
+redis
+APScheduler==3.7.0
+flask-cors
+adafruit-circuitpython-scd30
